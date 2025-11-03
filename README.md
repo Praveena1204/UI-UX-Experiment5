@@ -2,11 +2,11 @@
 Name: Praveena A
 Reg.no : 212224040247
 ```
-Aim:
+# Aim:
 
 To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
-Algorithm:
+# Algorithm:
 
 Identifying and Writing Problem Statements
 
@@ -20,9 +20,10 @@ Creating Personas Based on previous user data or a given user scenario.
 
 5.Mention the GitHub Repo URL in the submission text and attach the lab report pdf.
 
-Output:
+# Output:
 
+[Ex5_Ui-Ux.1.pdf](https://github.com/user-attachments/files/23297883/Ex5_Ui-Ux.1.pdf)
 
-Result:
+# Result:
 
 The presentation of 2 different scenarios is completed and verified.
